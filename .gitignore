@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# PocketBase (datos en tiempo de ejecución — NO se versionan)
+pocketbase/pb_data/
+
+# PocketBase binario (cada uno se lo descarga)
+pocketbase/pocketbase
+
+# Sistema
+.DS_Store
+*.log
+.env
+.env.*
