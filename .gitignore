@@ -14,3 +14,4 @@ pocketbase/pocketbase
 *.log
 .env
 .env.*
+Servidor/pocketbase.exe
